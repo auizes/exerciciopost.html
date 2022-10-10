@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2? family= Barlow+Condensed:ital,wght@1,100 & family= Dancing+Script & family= Pacifico & display=swap');
+
+
+
+
+body{
+
+    font-family: 'Dancing Script', cursiva;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    text-align: left;
+
+}
+
+.conter{
+    border: red solid 5px;
+    padding: 20px 10px 5px 50px;
+}
+
+.box{
+    border: blue solid 5px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    border: dotted black;
+    margin: 10px 5px 50px;
+    
+}
+
+
+
+.lute{
+    border: navy solid 5px;
+    padding: 20px 10px 5px 50px;
+    margin: 10px 5px 50px;
+    width: 50%;
+
+}
